@@ -17,6 +17,9 @@
 🎯 Etapas do Projeto
 
 1️⃣ Carregar dados de um arquivo Excel/CSV. 
+
 2️⃣ Limpar e organizar os dados.
+
 3️⃣ Explorar e analisar padrões de vendas. 
+
 4️⃣ Criar visualizações para facilitar a interpretação.
